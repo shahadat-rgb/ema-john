@@ -1,0 +1,12 @@
+.btn{  
+    background:rgb(247, 162, 6);
+    color:black;
+    width: 250px;
+    height: 30px;
+    border:1px solid gray;
+    border-radius: 5px;
+    border: none;
+}
+.cart-aria{
+    margin-left: 50px;    
+}
